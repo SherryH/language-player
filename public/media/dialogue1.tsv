@@ -1,0 +1,31 @@
+start	end	text
+0	7000	Deutsch lernen, durchhören.
+21000	27000	Restaurantseblik. Sie sprechen mit Herrn Scheibe. Was kann ich für Sie tun?
+27000	33000	Guten Tag. Mein Name ist Michael Kiesler. Ich würde gern einen Tisch für heute Abend reservieren.
+33000	39000	Sehr gern. Ich schaue kurz in den Reservierungen nach. Einen kleinen Moment.
+40000	44000	So, möchten Sie drinnen oder draußen sitzen?
+44000	47000	Oh, Sie haben auch eine Terrasse?
+47000	51000	Ja, wir haben eine große Terrasse mit direktem Blick auf den See.
+51000	58000	Das klingt wunderbar. Da heute strahlender Sonnenschein ist, würden wir gerne draußen sitzen.
+58000	62000	Sehr gern. Mit wie vielen Personen kommen Sie zu uns?
+62000	71000	Wir kommen zu viert. Meine Eltern sind zu Besuch und da haben wir uns überlegt, dass wir heute Abend schön bei Ihnen essen gehen könnten.
+71000	76000	Eine sehr gute Idee. Um welche Uhrzeit möchten Sie bei uns sein?
+76000	78000	18 Uhr wäre gut.
+80000	90000	Um 18 Uhr habe ich leider schon eine Reservierung für die gesamte Terrasse. Die Veranstaltung dauert auch den ganzen Abend. Das tut mir leid.
+90000	96000	Oh, das ist ja schade. Haben Sie denn dann drin vielleicht noch vier Plätze frei?
+96000	105000	Im Restaurant kann ich Ihnen ab 19 Uhr einen Tisch für vier Personen anbieten. Der Platz befindet sich direkt an unserer großen Glasfront.
+105000	110000	Somit haben Sie auch von dort einen wunderschönen Ausblick auf den See.
+110000	112000	Super. Den nehme ich.
+112000	116000	Eine sehr gute Wahl. Wie war Ihr Name noch mal?
+116000	118000	Michael Kiesler.
+118000	128000	Alles klar. Ein Tisch für vier Personen heute Abend um 19 Uhr für Herrn Michael Kiesler. Habe ich notiert.
+128000	132000	Vielen Dank. Ich habe da noch eine Frage.
+132000	133000	Ich höre?
+133000	139000	Gibt es bei Ihnen auch vegetarische Gerichte? Meine Mutter ist seit einiger Zeit kein Fleisch mehr.
+139000	150000	Wir haben eine kleine Auswahl mit Gemüsebeilagen und Gemüsebolognese. Wir haben auch viele Pilzgerichte und Aufläufe ohne Fleisch.
+150000	154000	Das ist der Großartig. Vielen Dank für Ihre Geduld.
+154000	161000	Das ist doch gar kein Problem. Uns liegt es am Herzen, dass unsere Gäste rundum zufrieden sind.
+161000	163000	Super. Vielen Dank.
+163000	166000	Sehr gerne. Bis heute Abend.
+166000	167000	Bis später.
+199000	202000	Copyright WDR 2021
